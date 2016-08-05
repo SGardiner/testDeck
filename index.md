@@ -3,7 +3,7 @@ title       : My first slidify deck
 subtitle    : 
 author      : Sam Gardiner
 job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : shower      # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -24,5 +24,4 @@ knit        : slidify::knit2slides
 ```
 ## [1]  4.534687 -2.458063  4.652921  7.380288 -8.490856  1.634210
 ```
-
 ---
