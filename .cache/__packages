@@ -1,0 +1,14 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+devtools
+slidify
+rCharts
+lubridate
+ggplot2
+reshape2
+slidifyLibraries
